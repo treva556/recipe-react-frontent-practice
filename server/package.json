@@ -1,0 +1,30 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treva556/recipe-react-frontent-practice.git"
+  },
+  "keywords": [
+    "treva"
+  ],
+  "author": "trevor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treva556/recipe-react-frontent-practice/issues"
+  },
+  "homepage": "https://github.com/treva556/recipe-react-frontent-practice#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
