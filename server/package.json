@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,6 +16,8 @@
   ],
   "author": "trevor",
   "license": "ISC",
+  "type": "module",
+
   "bugs": {
     "url": "https://github.com/treva556/recipe-react-frontent-practice/issues"
   },
